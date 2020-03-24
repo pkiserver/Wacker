@@ -281,7 +281,7 @@
    "Status": 1
  },
  {
-   "Typ": "",
+   "Typ": "Free R&D",
    "Phase": "",
    "P-Nummer": "WB008",
    "Name": "WB008",
@@ -291,7 +291,7 @@
    "Status": null
  },
  {
-   "Typ": "",
+   "Typ": "Free R&D",
    "Phase": "",
    "P-Nummer": "WB017",
    "Name": "WB017",
@@ -301,7 +301,7 @@
    "Status": null
  },
  {
-   "Typ": "",
+   "Typ": "Free R&D",
    "Phase": "",
    "P-Nummer": "WB018",
    "Name": "WB018",
@@ -311,7 +311,7 @@
    "Status": null
  },
  {
-   "Typ": "",
+   "Typ": "Free R&D",
    "Phase": "",
    "P-Nummer": "WB019",
    "Name": "WB019",
@@ -321,7 +321,7 @@
    "Status": null
  },
  {
-   "Typ": "",
+   "Typ": "Free R&D",
    "Phase": "",
    "P-Nummer": "WB050",
    "Name": "WB050",
@@ -331,7 +331,7 @@
    "Status": null
  },
  {
-   "Typ": "",
+   "Typ": "Free R&D",
    "Phase": "",
    "P-Nummer": "WB051",
    "Name": "WB051",
@@ -341,7 +341,7 @@
    "Status": null
  },
  {
-   "Typ": "",
+   "Typ": "Free R&D",
    "Phase": "",
    "P-Nummer": "WB054",
    "Name": "WB054",
@@ -351,10 +351,20 @@
    "Status": null
  },
  {
-   "Typ": "",
+   "Typ": "Free R&D",
    "Phase": "",
    "P-Nummer": "WB055",
    "Name": "WB055",
+   "Start": "",
+   "Ende": "",
+   "aktiv": null,
+   "Status": null
+ },
+ {
+   "Typ": "Free R&D - Silane",
+   "Phase": "",
+   "P-Nummer": "F20000104",
+   "Name": "F20000104",
    "Start": "",
    "Ende": "",
    "aktiv": null,
