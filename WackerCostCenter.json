@@ -59,7 +59,42 @@
    "Kostenstelle": 286150,
    "Buchungskreis": 101,
    "Beschreibung": "X-Öl-Anlage 1"
- }
+ },
+ {
+   "Kostenstelle": 285320,
+   "Buchungskreis": 101,
+   "Beschreibung": "Destillation Nord"
+ },
+ {
+   "Kostenstelle": 285330,
+   "Buchungskreis": 101,
+   "Beschreibung": "Tanklager Nord"
+ },
+ {
+   "Kostenstelle": 285350,
+   "Buchungskreis": 101,
+   "Beschreibung": "Abfüllung Nord"
+ },
+ {
+   "Kostenstelle": 285430,
+   "Buchungskreis": 101,
+   "Beschreibung": "TMS-Spaltung"
+ },
+ {
+   "Kostenstelle": 285420,
+   "Buchungskreis": 101,
+   "Beschreibung": "HMV-Aufarbeitung"
+ }, 
+ {
+   "Kostenstelle": 286730,
+   "Buchungskreis": 101,
+   "Beschreibung": "HM2-Anlage (Technikum)"
+ }, 
+ {
+   "Kostenstelle": 285180,
+   "Buchungskreis": 101,
+   "Beschreibung": "HCl-Destillation"
+ }       
 ],
     "paging": {
         "total": 100
