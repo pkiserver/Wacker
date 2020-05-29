@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "Project Code": "IDP-4129",
+            "Project Name/ Brief Description": "Human Microbiome",
+            "Full Description": "Study of microbial communities that life in and on our bodies and the role they play in disease",
+            "Owner": "Fred Patrick",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": "IDP-4897",
+            "Project Name/ Brief Description": "PDE4 Inhibitors",
+            "Full Description": "Small molecules for proposed treatment of Dermatitis",
+            "Owner": "Bennie Bowers",
+            "Status": "CLOSED"
+        },
+        {
+            "Project Code": "IDP-8364",
+            "Project Name/ Brief Description": "TNF Inhibitors",
+            "Full Description": "Small molecules for proposed treatment of Rheumatoid Arthritis",
+            "Owner": "Rickey Page",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": "IDP-4309",
+            "Project Name/ Brief Description": "JAK3 Specific Inhibitors",
+            "Full Description": "Auto-immune disease focus",
+            "Owner": "Clayton Wagner",
+            "Status": "ONGOING"
+        },
+        {
+            "Project Code": "IDP-5823",
+            "Project Name/ Brief Description": "GSK3b Inhibitors",
+            "Full Description": "Development of selective inhibitors for AD and Bipolar disorder platforms",
+            "Owner": "Sharon Boone",
+            "Status": "ONGOING"
+        }
+     }
+    ],
+    "paging": {
+        "total": 5
+    }
+}
